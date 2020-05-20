@@ -1,0 +1,1 @@
+{"version":1,"pages404":true,"basePath":"","redirects":[],"rewrites":[],"headers":[],"dynamicRoutes":[{"page":"/p/[name]","regex":"^\\/p\\/([^/]+?)(?:\\/)?$"}],"dataRoutes":[{"page":"/careers","dataRouteRegex":"^\\/_next\\/data\\/e49Ssy3sND7sWa4JW2dGj\\/careers.json$"}]}
